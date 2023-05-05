@@ -1,8 +1,8 @@
-# Weslley Felix 
+# Fala galera! Eu sou o Weslley Felix 
 
-Senior Data Engineer | Tech Lead | Instructor @Data Viking
+Trabalho com Arquitetura e Implementação de projetos de Big Data. Este repositorio tem como objetivo compartilhar um pouquinho do meu trabalho:) 
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://github.com/WeslleyFelixvk">
